@@ -1,2 +1,11 @@
-# movies_ticket_linux_terminal
-searching for and buying movies ticket through linux terminal
+## Bookmyshow CLI
+
+Command line utility for bookmyshow.
+
+Usage:
+
+```
+$ git clone https://github.com/vedantrathore/bookmyshow-cli.git
+$ cd bookmyshow-cli/
+$ python cli.py
+```
